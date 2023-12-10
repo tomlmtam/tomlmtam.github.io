@@ -7,21 +7,25 @@ layout: resume
 
 ## Currently
 
-Current Position Description
+NIH IRACDA K12 postdoc fellow @ URMC
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2010 - 2012, 2014`
+Chinese University of Hong Kong, Hong Kong
+B.S. in Cell and Molecular Biology (First Class Honors, a.k.a. summa cum laude) 
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2012 - 2013`
+University of California Davis
+One-year EAP Exchange, major in Environmental Toxicology
+
+`2014 - 2019`
+University of California Riverside
+Ph.D. in Environmental Toxicology
 
 ## Awards
 
-`2012`
+`2020`
 Name of Award, Organization 
 
 ## Publications
