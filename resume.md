@@ -3,7 +3,7 @@ title: Resume
 layout: resume
 ---
 
-<b> Use this template to share your accomplishments </b>  
+# <b> Use this template to share your accomplishments </b>  
 
 ## Currently
 
