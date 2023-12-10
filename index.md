@@ -3,11 +3,10 @@ layout: home
 excerpt: "About Me..."
 ---
 
-Hi. I'm Tom, a multidisciplinary toxicologist specializing in metal toxicology
+Tom is a scientist & philosophiler studying the multidisciplinary facets of environmental toxicology in animal models.
 
-I'm currently working as a NIH IRACDA K12 postdoc fellow at URMC.
+He's currently working as a NIH IRACDA K12 postdoc fellow at University of Rochester Medical Center.
 
-## Welcome to my science world!
-This will show you my journey as a scientist.
+
 
     
