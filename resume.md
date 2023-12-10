@@ -13,14 +13,17 @@ NIH IRACDA K12 postdoc fellow @ URMC
 
 `2010 - 2012, 2014`
 Chinese University of Hong Kong, Hong Kong
+
 B.S. in Cell and Molecular Biology (First Class Honors, a.k.a. summa cum laude) 
 
 `2012 - 2013`
 University of California Davis
+
 One-year EAP Exchange, major in Environmental Toxicology
 
 `2014 - 2019`
 University of California Riverside
+
 Ph.D. in Environmental Toxicology
 
 ## Awards
