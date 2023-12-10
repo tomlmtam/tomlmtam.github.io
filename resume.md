@@ -58,20 +58,6 @@ Book Title, Journal Title
 Presentation Title, Conference
 
 
-## Employment History
-
-`Current`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
-
-`1994-1996`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
-
 
 
 
