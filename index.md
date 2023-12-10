@@ -3,21 +3,11 @@ layout: home
 excerpt: "About Me..."
 ---
 
-This project is meant to help students and researchers across University of Rochester create their
-  own hosted academic website for free with GitHub. 
+Hi. I'm Tom, a multidisciplinary toxicologist specializing in metal toxicology
 
-## About this Site
+I'm currently working as a NIH IRACDA K12 postdoc fellow at URMC.
 
-This project is a slight customization based off of some great work by 
-  [NC State University Libraries](https://www.lib.ncsu.edu/).
-  The original project, called [`jekyll academic`](https://ncsu-libraries.github.io/jekyll-academic-docs/)
-  has its own [github repository](https://github.com/NCSU-Libraries/jekyll-academic)
-  and [workshop documentation](https://ncsu-libraries.github.io/jekyll-academic-docs/workshop/). 
+## Welcome to my science world!
+This will show you my journey as a scientist.
 
-
-## Creating Your Own
-
-To see a step-by-step guide to build your own site, go to the [RESEARCH](/research) section. 
-  There you'll find a basic [guide](/blog/getting-started) that will help you
-  create your new site.
-  
+    
