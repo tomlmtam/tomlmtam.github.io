@@ -28,8 +28,14 @@ Ph.D. in Environmental Toxicology
 
 ## Awards
 
+`2021`
+Sheldon D. Murphy Student and Postdoctoral Endowment Award, Society of Toxicology
+
 `2020`
-Name of Award, Organization 
+UR PDA Career Enhancement Award, University of Rochester Postdoctoral Association
+
+`2014 - 2017`
+Sir Edward Youde Memorial Overseas Fellowship (Awarded in 2014)
 
 ## Publications
 
