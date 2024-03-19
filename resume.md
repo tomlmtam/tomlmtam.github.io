@@ -39,29 +39,36 @@ Sir Edward Youde Memorial Overseas Fellowship (Awarded in 2014)
 
 ## Publications
 
-<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+<!-- A list is also available [online](https://scholar.google.com/citations?user=cGKdogUAAAAJ&hl=en) -->
 
 ### Journals
 
-`1994`
-Article Title, Journal Title
+`2024`
+Tam, LM and Rand, M. In Press. Review Article: Myogenic and muscle toxicity targets of environmental methylmercury exposure, Archives of Toxicology
 
-`1994`
-Article Title, Journal Title
+`2020`
+Tam, LM and Wang, Y. Review Article: Arsenic exposure and compromised protein quality control, Chemical Research in Toxicology 33:1594-1604.
 
-### Books
+`2020`
+Tam, LM, Jiang, J, Wang, P, and Wang, Y. Arsenite binds to ZNF598 to perturb ribosome-associated protein quality control. Chemical Research in Toxicology 33:1644-1652.
 
-`1994`
-Book Title, Journal Title
+`2020`
+Tam, LM, Price, NE, and Wang, Y. Review Article: Molecular mechanisms of arsenic-induced disruption of DNA repair. Chemical Research in Toxicology 33:709-726.
 
-`1994`
-Book Title, Journal Title
+`2019`
+Tam, LM, Huang, M., and Wang, Y. Targeted quantitative proteomics revealed arsenite-induced proteasomal degradation of RhoB in fibroblast cells. Chemical Research in Toxicology 32:1343-1350.
 
+`2018`
+Jiang, J, Tam, LM, Wang, P, and Wang, Y. Arsenite targets the RING finger domain of Rbx1 E3 ubiquitin ligase to inhibit proteasome-mediated degradation of Nrf2. Chemical Research in Toxicology 31:380-387.
 
-## Presentations
+`2017`
+Tam, LM, Jiang, J, Wang, P, Li, L, Miao, W, Dong, X, and Wang, Y. Arsenite binds to the zinc finger motif of TIP60 histone acetyltransferase and induces its degradation via the 26S proteasome. Chemical Research in Toxicology 30:1685-1693. 
 
-`1994`
-Presentation Title, Conference
+### Policy Memo
+
+`2021`
+Tam, LM, Chiang, W, and Huynh, KT. Establishing global climate resilience to persistent organic pollutatnts through the private sector: a call to reform institutional standards of the International Finance Corporation. Journal of Science Policy & Governance 18(2):https://doi.org/10.38126/JSPG180210. 
+
 
 
 
