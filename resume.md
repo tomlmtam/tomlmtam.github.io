@@ -67,7 +67,7 @@ Tam, LM, Jiang, J, Wang, P, Li, L, Miao, W, Dong, X, and Wang, Y. Arsenite binds
 ### Policy Memo
 
 `2021`
-Tam, LM, Chiang, W, and Huynh, KT. Establishing global climate resilience to persistent organic pollutatnts through the private sector: a call to reform institutional standards of the International Finance Corporation. Journal of Science Policy & Governance 18(2):https://doi.org/10.38126/JSPG180210. 
+Tam, LM, Chiang, W, and Huynh, KT. Establishing global climate resilience to persistent organic pollutants through the private sector: a call to reform institutional standards of the International Finance Corporation. Journal of Science Policy & Governance 18(2):https://doi.org/10.38126/JSPG180210. 
 
 
 
