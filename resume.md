@@ -28,6 +28,9 @@ Ph.D. in Environmental Toxicology
 
 ## Awards
 
+`2023`
+NIH IRACDA K-12 Rochester Postdoctoral Partnership Fellowship
+
 `2021`
 Sheldon D. Murphy Student and Postdoctoral Endowment Award, Society of Toxicology
 
