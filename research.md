@@ -8,7 +8,7 @@ I'm interested in how early-life exposure to toxicants shapes the later-in-life 
 ## Understanding how heavy metals influence DNA repair
 Arsenic exposure is a global public health issue, and it causes chronic diseases (e.g. cancer) millions of people worldwide through contaminated drinking water. It is known as a mutagen by damaging DNA. I demonstrated that arsenic exposure impaired the more open chromatin architecture necessary for DNA repair by enhancing proteasomal degradation of a key histone acetyltransferase, TIP60, in human cell lines.
 
-#Relevant Publications:
+# Relevant Publications:
 1. Tam, LM, Price, NE, and Wang, Y. (2020). Review Article: Molecular mechanisms of arsenic-induced disruption of DNA repair. Chemical Research in Toxicology 33:709-726.
 2. Tam, LM, Jiang, J, Wang, P, Li, L, Miao, W, Dong, X, and Wang, Y. (2017). Arsenite binds to the zinc finger motif of TIP60 histone acetyltransferase and induces its degradation via the 26S proteasome. Chemical Research in Toxicology 30:1685-1693.
 
