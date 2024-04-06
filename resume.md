@@ -44,7 +44,7 @@ Sir Edward Youde Memorial Overseas Fellowship (Awarded in 2014)
 ### Journals
 
 `2024`
-Tam, LM and Rand, M. In Press. Review Article: Myogenic and muscle toxicity targets of environmental methylmercury exposure, Archives of Toxicology
+Tam, LM, and Rand, MD. Review: myogenic and muscle toxicity targets of environmental methylmercury exposure. Archives of Toxicology https://doi.org/10.1007/s00204-024-03724-3
 
 `2020`
 Tam, LM and Wang, Y. Review Article: Arsenic exposure and compromised protein quality control, Chemical Research in Toxicology 33:1594-1604.
