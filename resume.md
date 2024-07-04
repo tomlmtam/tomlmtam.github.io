@@ -47,6 +47,12 @@ Sir Edward Youde Memorial Overseas Fellowship (Awarded in 2014)
 ### Journals
 
 `2024`
+Tam, LM, and Bushnell, T. Deciphering the aging process through single-cell cytometric technologies. Cytometry Part A https://doi.org/10.1002/cyto.a.24852
+
+`2024`
+Tam, LM, Hocker, K, David, T, and Williams, EM. The influence of social dynamics on biological aging and the health of historically marginalized populations: A biopsychosocial model for health disparities. International Journal of Environmental Research and Public Health 21(5):554. https://doi.org/10.3390/ijerph21050554
+
+`2024`
 Tam, LM, and Rand, MD. Review: myogenic and muscle toxicity targets of environmental methylmercury exposure. Archives of Toxicology https://doi.org/10.1007/s00204-024-03724-3
 
 `2020`
